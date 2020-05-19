@@ -1606,7 +1606,7 @@
                 "symfony/config": "~2.8|~3.0",
                 "symfony/dependency-injection": "~3.3",
                 "symfony/expression-language": "~2.8|~3.0",
-                "symfony/http-foundation": "~2.8|~3.0",
+                "symfony/http-foundation": "3.4.35",
                 "symfony/yaml": "~3.3"
             },
             "suggest": {
